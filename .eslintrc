@@ -1,0 +1,14 @@
+{
+  "extends": "standard",
+  "plugins": [
+    "html"
+  ],
+  "rules": {
+    "no-new": "off",
+    "one-var": "off",
+    "no-tabs": "off"
+  },
+  "parserOptions": {
+    "parser": "babel-eslint"
+  }
+}
